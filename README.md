@@ -75,7 +75,7 @@ I also build tools for exploring financial markets, interpreting business data, 
 
 ### 🛡️ TankFall Arena
 
-A Unity tank-combat game project. I worked on a different kind of interactive experience here, with a focus on gameplay and development in C++/game-engine workflows as reflected in the project repository.
+A Unity tank-combat game project. I explored a different kind of interactive product through game development, gameplay mechanics, and a Unity-based workflow.
 
 [Steam store / demo](https://store.steampowered.com/app/4813620/TankFall_Arena/) · [GitHub](https://github.com/Adamantium2099/TankFall-Arena)
 
